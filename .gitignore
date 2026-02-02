@@ -1,0 +1,7 @@
+bin/
+legal/
+*.log
+*.zip
+*.class
+.idea/
+
